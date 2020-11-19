@@ -1,0 +1,9 @@
+infile dictionary {
+    _column(1)    numeric                               YEAR   %20f  "Gss year for this respondent                       "
+   _column(21)    numeric                                AGE   %20f  "Age of respondent"
+   _column(41)    numeric                               EDUC   %20f  "Highest year of school completed"
+   _column(61)    numeric                                SEX   %20f  "Respondents sex"
+   _column(81)    numeric                               RACE   %20f  "Race of respondent"
+  _column(101)    numeric                           VIOLPEOP   %20f  "Would child do something violent toward other"
+  _column(121)    numeric                           INFMUSIC   %20f  "Influence of rock & roll"
+}
